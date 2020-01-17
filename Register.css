@@ -1,0 +1,26 @@
+.Form1{
+    margin-top: 100px;
+    width: 35%;
+}
+
+.Form1{
+    margin-top:10px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    border: 0.5px solid gainsboro;
+    border-radius: 15px;
+    padding: 30px 20px;
+    box-shadow: 7px 6px 11px -8px rgba(0,0,0,0.72)}
+    text-align: center;
+.Form1 p{
+    text-align: center;
+    font-size: 3em;
+    font-weight: 100;
+    margin: 0;
+    color: brown;
+}
+
+.Form1 a{
+    color: brown;
+}
